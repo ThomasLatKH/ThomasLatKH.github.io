@@ -32,11 +32,12 @@
 
   <div class="note-large blue">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>Comment:</p>
+      <p>blue</p>
 
     </div>
     <div class="notel-content">
-      <p>In the grand tapestry of coding, our author has woven a pixelated masterpiece, transcending syntax mysteries and forging a digital realm. Kudos for navigating the labyrinth of trial and error – a true odyssey in the age of web creation!<br>編輯評論: 在編碼的宏偉藝術中，我們的作者編織了一幅像素化的傑作，超越了語法之謎，打造了一個數字領域的殿堂。讚賞在試錯的迷宮中航行——這是網頁創建時代的真正奧德賽！</p>
+      <p>Editor’s Comment: In the grand tapestry of coding, our author has woven a pixelated masterpiece, transcending syntax mysteries and forging a digital realm. Kudos for navigating the labyrinth of trial and error – a true odyssey in the age of web creation!</p>
+<p>編輯評論: 在編碼的宏偉藝術中，我們的作者編織了一幅像素化的傑作，超越了語法之謎，打造了一個數字領域的殿堂。讚賞在試錯的迷宮中航行——這是網頁創建時代的真正奧德賽！</p>
 
     </div>
   </div>
