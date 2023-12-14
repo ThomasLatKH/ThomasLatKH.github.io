@@ -99,6 +99,88 @@
       </tags>
   </entry>
   <entry>
+    <title>Web Crafting Chronicles: A Novice&#39;s Digital Odyssey</title>
+    <url>/2023/12/13/Construction02/</url>
+    <content><![CDATA[<h1 id="On-the-Road-to-Building-my-Website"><a href="#On-the-Road-to-Building-my-Website" class="headerlink" title="On the Road to Building my Website"></a>On the Road to Building my Website</h1><p>走向建立我的網站之路</p>
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>This is my first time to totally embrace technology and try to build my digital home. In my previous experiences, most of the time I was switching from platform to platform. This time I read a lot of articles on the Internet and consulted with my engineer friend; I even tried to use <code>cmd</code> and directly input commands under the terminal like the traditional Microsoft Dos interface. Thanks to the development of modern technology and the sharing spirit of Internet, I eventually built this website.</p>
+<p>簡介</p>
+<p>這是我第一次完全擁抱技術，並嘗試建立我的數字之家。在我的以往經驗中，我大多數時間都在不同平台之間切換。這一次，我閱讀了很多網上文章，諮詢了我的工程師朋友；我甚至嘗試使用 cmd 並直接在終端下輸入命令，就像傳統的 Microsoft Dos 介面。多虧了現代技術的發展和互聯網的分享精神，我最終建立了這個網站。</p>
+<h2 id="References-and-Useful-Tools"><a href="#References-and-Useful-Tools" class="headerlink" title="References and Useful Tools"></a>References and Useful Tools</h2><p>It is essential to build a suitable environment for constructing my own website. Sadly, I didn’t save all the links and articles I read. I think it would be better if I save all the links and create a list for myself. As a novice, I will definitely need those fundamental guide on my journey of building and maintaining my website. However, there are two extremely reliable articles I can share. Both of them provides good instruction pertaining to ‘how to convert my Medium posts into markdown format.’ They are written in Chinese, therefore I don’t have to overcome the barrier of language to understand the technical terms.</p>
+<p>參考資料和有用的工具</p>
+<p>為構建自己的網站營造一個適當的環境是必不可少的。可惜的是，我沒有保存我閱讀的所有鏈接和文章。我認為如果我保存了所有的鏈接並為自己創建一個列表會更好。作為一個新手，在建立和維護我的網站之旅中，我肯定需要這些基本的指南。然而，有兩篇非常可靠的文章我可以分享。它們都提供了有關“如何將我的Medium文章轉換為markdown格式”的良好指導。它們是用中文寫的，因此我無需克服語言障礙來理解技術術語。</p>
+<p>Here are the reference links:</p>
+<ol>
+<li><a class="link"   href="https://zhuanlan.zhihu.com/p/111614119" >Github + Hexo 搭建个人博客超详细教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://redefine-docs.ohevan.com/introduction" >Redefine docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944" >試著學 Hexo 系列 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://life.huli.tw/2023/10/09/goodbye-medium/" >再會了，Medium 搬家到 Hexo 心得 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://notes.desktopofsamuel.com/posts/%E8%AB%87%E5%86%8D%E6%95%B4%E7%90%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0%E4%B8%8A-5%E5%88%86%E9%90%98%E5%8C%AF%E5%87%BA-medium-%E5%92%8C-wordpress-%E6%96%87%E7%AB%A0%E8%87%B3-Markdown" >談再整理自己的文章（上） — 5分鐘匯出 Medium 和 Wordpress 文章至 Markdown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h2 id="Issues-I-Encountered"><a href="#Issues-I-Encountered" class="headerlink" title="Issues I Encountered"></a>Issues I Encountered</h2><p>The first challenge for a person without technical backbround is always the same: How to build the environment. It is straightforward for a software engineer to install relative and required suites. However, the very first step can be an annoying pitfall for a novice. Take this case for an instance, I was completely confused by Git and Github. What is the difference between these things? Should I sign up for a Github account first? Without my friend’s help and the reference data, I wouldn’t have made my website.</p>
+<p>Another major issue I faced was how to collect my previous works. Not until I googled did I realise that I can download my posts from Medium and transfer them into markdown format via a software. Actually I struggled with this process for several hours; fortunately I successfully got this done.</p>
+<p>我遇到的問題</p>
+<p>對於沒有技術背景的人來說，第一個挑戰總是相同的：如何構建環境。對於軟體工程師來說，安裝相對和所需的套件是直截了當的。然而，對於新手來說，第一步可能是一個惱人的陷阱。以這個案例為例，我對Git和Github完全感到困惑。這些東西有什麼區別？我應該先註冊一個Github賬戶嗎？如果沒有朋友的幫助和參考數據，我就無法建立我的網站。</p>
+<p>我面臨的另一個主要問題是如何收集我的以前的作品。直到我谷歌搜索之前，我才意識到我可以從Medium上下載我的文章，並通過一個軟體將它們轉換為markdown格式。事實上，我花了幾個小時來解決這個過程；幸運的是，我最終成功完成了這個任務。</p>
+<h2 id="Progress-I-Made"><a href="#Progress-I-Made" class="headerlink" title="Progress I Made"></a>Progress I Made</h2><p>So far I’ve built a rudimentary framework of my digital home. I must say: It is the most productive project I have done this year. In addition, I think it is about accumulation: If it were not for my commencement of writing a blog, I would not end up creating a website! Despite the fact that the website is simply a static webpage serving as my blog, I am ecstatic and satisfied that I unlock my new potential.</p>
+<p>我取得的進展</p>
+<p>到目前為止，我已經建立了我的數字之家的一個基本框架。我必須說：這是我今年完成的最有成效的項目。此外，我認為這是積累的問題：如果不是因為我開始寫博客，我就不會最終創建一個網站！儘管該網站只是一個作為我的博客的靜態網頁，但我對解鎖新潛力感到欣喜滿足。</p>
+<h2 id="Future-Plan"><a href="#Future-Plan" class="headerlink" title="Future Plan"></a>Future Plan</h2><p>In the near future, I am planning to move my blog posts from Medium to my personal website. To obtain this goal, I need to be familiar with the current tools, <strong>hexo and markdown</strong>. In other words, I can not only play around with my website but also practise some new skills. Hopefully I can stay productive and motivated!</p>
+<p>未來計劃</p>
+<p>在不久的將來，我計劃將我的博客文章從Medium搬遷到我的個人網站。為了實現這個目標，我需要熟悉當前的工具，hexo和markdown。換句話說，我不僅可以在我的網站上嬉戲，還可以練習一些新技能。希望我能保持高效和積極！</p>
+<blockquote>
+<p>Editor’s Comment: <br>In the symphony of coding, our author has composed a digital opus, bravely venturing where syntax and pixels converge. With the perplexities of Git and the triumph over Medium posts, this odyssey is a testament to conquering the web! <br>編輯評論: 在編碼的交響樂中，我們的作者創作了一部數字史詩，勇敢地涉足語法和像素交匯的領域。通過Git的複雜性和對Medium文章的勝利，這是征服網絡的明證！</p>
+</blockquote>
+<h2 id="Scoring"><a href="#Scoring" class="headerlink" title="Scoring"></a>Scoring</h2>
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>blue</p>
+
+    </div>
+    <div class="notel-content">
+      <p>Vocabulary use: 9&#x2F;10</p>
+<p>Grammar use: 8.5&#x2F;10</p>
+<p>Sentence structure and coherence: 8&#x2F;10</p>
+<p>Readability: 9&#x2F;10</p>
+<p>Overall scoring: 8.6&#x2F;10</p>
+<p>GPA standard: A-  </p>
+<p>Pros:<br>The vocabulary use is rich and contributes to a detailed and informative narrative.<br>Clear introduction and well-structured sections make the content easy to follow.<br>The reference links add credibility and provide additional resources for readers.</p>
+<p>Cons:<br>Some sentences could benefit from minor adjustments for smoother flow and coherence.</p>
+<p>Advice:<br>Sentence structure: Continue refining sentence structures for enhanced coherence.<br>Grammar use: Maintain consistency in grammar application for even smoother readability.<br>Great job on incorporating reference links; keep utilizing external resources for added depth.</p>
+<p>GPA standard: The writing demonstrates a strong command of language with minor areas for improvement. The content effectively communicates the author’s journey of building a website, providing valuable insights and resources.</p>
+
+    </div>
+  </div>
+
+<h2 id="ChatGPT’s-Revision"><a href="#ChatGPT’s-Revision" class="headerlink" title="ChatGPT’s Revision"></a>ChatGPT’s Revision</h2>
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>On the Road to Building My Website: Embracing the Digital Frontier</p>
+
+    </div>
+    <div class="notel-content">
+      <p>Introduction:<br>Venturing into the realm of technology, I’ve embarked on creating my digital abode for the first time. Unlike previous attempts where I hopped between platforms, this time, armed with newfound determination, I delved into articles and sought guidance from my engineer friend. Even the archaic charm of cmd under the terminal, akin to the traditional Microsoft DOS interface, found its way into my exploration. Thanks to modern technology and the generous spirit of the internet, my website emerged victorious.</p>
+<p>References and Useful Tools:<br>Establishing a conducive environment for website construction is paramount. Although I regrettably failed to preserve all the links and articles I perused, I recognise the wisdom in creating a list for future reference. As a novice, fundamental guides will undoubtedly prove invaluable on my website-building odyssey. Two particularly reliable articles, both guiding me on converting Medium posts to markdown format, are written in Chinese, eliminating the language barrier for me.</p>
+<p>Issues I Encountered:<br>The initial challenge for a tech neophyte remains a perennial one: constructing the environment. While a software engineer seamlessly installs requisite suites, novices grapple with this vexing pitfall. Git and Github became a bewildering maze until my friend’s intervention clarified their distinctions. Another significant hurdle was retrieving my previous works, eventually overcome by discovering software that facilitated the download of Medium posts into markdown format.</p>
+<p>Progress I Made:<br>A skeletal framework for my digital home now stands, marking the most productive project of my year. The journey, catalysed by my foray into blogging, has unlocked new potential. Despite its simplicity as a static blog page, the satisfaction derived is immeasurable.</p>
+<p>Future Plan:<br>In the immediate future, I aspire to transplant my blog posts from Medium to my personal website. This entails mastering current tools like Hexo and Markdown, providing not only a playground for my website but also an arena to acquire new skills. May productivity and motivation continue to be my steadfast companions!</p>
+<p>走向建立我的網站之路：擁抱數字前沿  </p>
+<p>簡介：<br>踏入科技的領域，我首次踏上了建立我的數字居所之旅。不同於以往在不同平台間遊走的嘗試，這一次，憑藉新發現的決心，我深入研讀文章並向工程師朋友尋求指導。甚至終端下的 cmd，類似於傳統的 Microsoft DOS 介面，也在我的探索中找到了位置。多虧現代技術和互聯網的慷慨精神，我的網站勝利地浮現。</p>
+<p>參考資料和有用的工具：<br>為建立網站的環境至關重要。儘管我遺憾地未能保存所有閱讀的鏈接和文章，但我意識到為將來創建一個列表是明智之舉。作為新手，基本指南無疑將在我建站的過程中證明其無價。其中兩篇特別可靠的文章都指導我將 Medium 的文章轉換為 markdown 格式，並以中文撰寫，消除了語言障礙。</p>
+<p>我遇到的問題：<br>對於技術新手來說，最初的挑戰始終是一個永恆的問題：構建環境。雖然軟體工程師可以輕鬆安裝所需的套件，但新手們卻在這個令人惱火的陷阱中掙扎。Git 和 Github 在我的朋友介入之前變得令人困惑。另一個重大障礙是檢索以前的作品，最終通過發現一款軟體，有助於將 Medium 文章下載為 markdown 格式。</p>
+<p>我取得的進展：<br>我的數字之家現在已經建立了一個基本的框架，標誌著我一年中最有成效的項目。這個由我進入博客領域開啟的旅程，解鎖了新的潛力。儘管它僅僅是一個靜態的博客頁面，但所獲得的滿足感是不可估量的。</p>
+<p>未來計劃：<br>在不久的將來，我希望將我的博客文章從 Medium 搬遷到我的個人網站。這需要掌握像 Hexo 和 Markdown 這樣的當前工具，為我的網站提供不僅是一個遊樂場，還是獲得新技能的場所。願生產力和動力繼續做我的忠實伴侶！</p>
+
+    </div>
+  </div>]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Challenge</tag>
+        <tag>Technology</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Crafting Brilliance: An Odyssey in Website Refinement</title>
     <url>/2023/12/14/Editing01/</url>
     <content><![CDATA[<h1 id="Editing-my-Early-Posts"><a href="#Editing-my-Early-Posts" class="headerlink" title="Editing my Early Posts"></a>Editing my Early Posts</h1><p>編輯早期文章</p>
@@ -159,16 +241,24 @@
 
     </div>
     <div class="notel-content">
-      <p>Introduction:</p>
-<p>On this, the third day of my website construction odyssey, I find solace in the utility of Hexo’s customisation features. The prospect of tailoring my website brings both excitement and trepidation, given my non-tech background. Yet, learning by doing proves practical, allowing me to witness immediate changes, turning the process into a rewarding journey.</p>
-<p>Make it Fun!</p>
-<p>“In every job that must be done, there is an element of fun!” —Mary Poppins</p>
-<p>Amidst the construction, I uncovered a delightful addition: integrating an AI image generator into my editing toolkit. Formerly reliant on Medium’s Unsplash service for images, I faced a void upon moving to my website. Enter AI image generators, where keywords from my articles command the AI to conjure relevant images—a powerful game-changer.</p>
-<p>Issues:</p>
-<p>“Only those who will risk going too far can possibly find out how far one can go.” —T.S. Eliot</p>
-<p>However, risks abound. Progressing this far without backups for my early posts, primarily revised by ChatGPT, leaves me pondering the true quality of those pieces. Evolving methodologies, especially in ChatGPT scoring prompts, compounded this challenge. The absence of backups means no retrieval of the original posts, though the ChatGPT revisions persist.</p>
-<p>It’s All Part of the Learning Process:</p>
-<p>The essence lies in the wealth of lessons gained during the website-building process. Embracing new tools and restructuring my workflow became essential. Transitioning from Medium’s interface to Visual Studio Code for writing exemplifies the adaptability required in a world brimming with changes and challenges. Learning, indeed, remains the only constant!</p>
+      <p>Introduction:  </p>
+<p>On this, the third day of my website construction odyssey, I find solace in the utility of Hexo’s customisation features. The prospect of tailoring my website brings both excitement and trepidation, given my non-tech background. Yet, learning by doing proves practical, allowing me to witness immediate changes, turning the process into a rewarding journey.  </p>
+<p>Make it Fun!  </p>
+<p>“In every job that must be done, there is an element of fun!” —Mary Poppins  </p>
+<p>Amidst the construction, I uncovered a delightful addition: integrating an AI image generator into my editing toolkit. Formerly reliant on Medium’s Unsplash service for images, I faced a void upon moving to my website. Enter AI image generators, where keywords from my articles command the AI to conjure relevant images—a powerful game-changer.  </p>
+<p>Issues:  </p>
+<p>“Only those who will risk going too far can possibly find out how far one can go.” —T.S. Eliot  </p>
+<p>However, risks abound. Progressing this far without backups for my early posts, primarily revised by ChatGPT, leaves me pondering the true quality of those pieces. Evolving methodologies, especially in ChatGPT scoring prompts, compounded this challenge. The absence of backups means no retrieval of the original posts, though the ChatGPT revisions persist.  </p>
+<p>It’s All Part of the Learning Process:  </p>
+<p>The essence lies in the wealth of lessons gained during the website-building process. Embracing new tools and restructuring my workflow became essential. Transitioning from Medium’s interface to Visual Studio Code for writing exemplifies the adaptability required in a world brimming with changes and challenges. Learning, indeed, remains the only constant!  </p>
+<p>匠心綻放：打造網站的奇幻之旅  </p>
+<p>精雕細琢：網站建構的尋航  </p>
+<p>簡介：<br>在我建立網站的奇幻之旅的第三天，Hexo的自定義功能讓我感到欣慰。個性化網站的前景既令人興奮又讓我擔憂，鑑於我缺乏技術背景。然而，實踐學習是實際的，讓我能夠見證即時變化，使整個過程成為一段有益的旅程。</p>
+<p>增添樂趣！<br>“在每份必須完成的工作中，都有一些有趣的元素！” —瑪麗·波平斯  </p>
+<p>在建設過程中，我發現了一個令人愉悅的補充：將人工智慧圖像生成器納入我的編輯工具包。在Medium的Unsplash服務為圖片提供支持的時候，我面臨了轉移到我的網站後的空白。輸入人工智慧圖像生成器，文章中的關鍵詞指導人工智慧召喚相關圖片，這是一個強大的改變者。</p>
+<p>問題：<br>“只有那些敢於冒險走得太遠的人，才有可能發現自己能走多遠。” —T.S.艾略特  </p>
+<p>然而，風險無處不在。在沒有早期帖子備份的情況下走到這一步，這些帖子主要由ChatGPT修改，使我對這些作品的真實質量深思。不斷演變的方法，特別是在ChatGPT評分提示方面，使這一挑戰變得更加複雜。缺少備份意味著無法檢索原始帖子，儘管ChatGPT的修改依然存在。  </p>
+<p>這都是學習過程的一部分：<br>其核心在於在建立網站的過程中獲得的豐富經驗。接受新工具並重組工作流程變得至關重要。從Medium的界面轉移到Visual Studio Code進行寫作展示了在充滿變化和挑戰的世界中所需的適應能力。學習確實是唯一不變的！</p>
 
     </div>
   </div>
@@ -183,85 +273,50 @@
       </tags>
   </entry>
   <entry>
-    <title>Web Crafting Chronicles: A Novice&#39;s Digital Odyssey</title>
-    <url>/2023/12/13/Construction02/</url>
-    <content><![CDATA[<h1 id="On-the-Road-to-Building-my-Website"><a href="#On-the-Road-to-Building-my-Website" class="headerlink" title="On the Road to Building my Website"></a>On the Road to Building my Website</h1><p>走向建立我的網站之路</p>
-<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>This is my first time to totally embrace technology and try to build my digital home. In my previous experiences, most of the time I was switching from platform to platform. This time I read a lot of articles on the Internet and consulted with my engineer friend; I even tried to use <code>cmd</code> and directly input commands under the terminal like the traditional Microsoft Dos interface. Thanks to the development of modern technology and the sharing spirit of Internet, I eventually built this website.</p>
-<p>簡介</p>
-<p>這是我第一次完全擁抱技術，並嘗試建立我的數字之家。在我的以往經驗中，我大多數時間都在不同平台之間切換。這一次，我閱讀了很多網上文章，諮詢了我的工程師朋友；我甚至嘗試使用 cmd 並直接在終端下輸入命令，就像傳統的 Microsoft Dos 介面。多虧了現代技術的發展和互聯網的分享精神，我最終建立了這個網站。</p>
-<h2 id="References-and-Useful-Tools"><a href="#References-and-Useful-Tools" class="headerlink" title="References and Useful Tools"></a>References and Useful Tools</h2><p>It is essential to build a suitable environment for constructing my own website. Sadly, I didn’t save all the links and articles I read. I think it would be better if I save all the links and create a list for myself. As a novice, I will definitely need those fundamental guide on my journey of building and maintaining my website. However, there are two extremely reliable articles I can share. Both of them provides good instruction pertaining to ‘how to convert my Medium posts into markdown format.’ They are written in Chinese, therefore I don’t have to overcome the barrier of language to understand the technical terms.</p>
-<p>參考資料和有用的工具</p>
-<p>為構建自己的網站營造一個適當的環境是必不可少的。可惜的是，我沒有保存我閱讀的所有鏈接和文章。我認為如果我保存了所有的鏈接並為自己創建一個列表會更好。作為一個新手，在建立和維護我的網站之旅中，我肯定需要這些基本的指南。然而，有兩篇非常可靠的文章我可以分享。它們都提供了有關“如何將我的Medium文章轉換為markdown格式”的良好指導。它們是用中文寫的，因此我無需克服語言障礙來理解技術術語。</p>
-<p>Here are the reference links:</p>
-<ol>
-<li><a class="link"   href="https://zhuanlan.zhihu.com/p/111614119" >Github + Hexo 搭建个人博客超详细教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://redefine-docs.ohevan.com/introduction" >Redefine docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://ithelp.ithome.com.tw/users/20119486/ironman/2944" >試著學 Hexo 系列 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://life.huli.tw/2023/10/09/goodbye-medium/" >再會了，Medium 搬家到 Hexo 心得 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://notes.desktopofsamuel.com/posts/%E8%AB%87%E5%86%8D%E6%95%B4%E7%90%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0%E4%B8%8A-5%E5%88%86%E9%90%98%E5%8C%AF%E5%87%BA-medium-%E5%92%8C-wordpress-%E6%96%87%E7%AB%A0%E8%87%B3-Markdown" >談再整理自己的文章（上） — 5分鐘匯出 Medium 和 Wordpress 文章至 Markdown <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ol>
-<h2 id="Issues-I-Encountered"><a href="#Issues-I-Encountered" class="headerlink" title="Issues I Encountered"></a>Issues I Encountered</h2><p>The first challenge for a person without technical backbround is always the same: How to build the environment. It is straightforward for a software engineer to install relative and required suites. However, the very first step can be an annoying pitfall for a novice. Take this case for an instance, I was completely confused by Git and Github. What is the difference between these things? Should I sign up for a Github account first? Without my friend’s help and the reference data, I wouldn’t have made my website.</p>
-<p>Another major issue I faced was how to collect my previous works. Not until I googled did I realise that I can download my posts from Medium and transfer them into markdown format via a software. Actually I struggled with this process for several hours; fortunately I successfully got this done.</p>
-<p>我遇到的問題</p>
-<p>對於沒有技術背景的人來說，第一個挑戰總是相同的：如何構建環境。對於軟體工程師來說，安裝相對和所需的套件是直截了當的。然而，對於新手來說，第一步可能是一個惱人的陷阱。以這個案例為例，我對Git和Github完全感到困惑。這些東西有什麼區別？我應該先註冊一個Github賬戶嗎？如果沒有朋友的幫助和參考數據，我就無法建立我的網站。</p>
-<p>我面臨的另一個主要問題是如何收集我的以前的作品。直到我谷歌搜索之前，我才意識到我可以從Medium上下載我的文章，並通過一個軟體將它們轉換為markdown格式。事實上，我花了幾個小時來解決這個過程；幸運的是，我最終成功完成了這個任務。</p>
-<h2 id="Progress-I-Made"><a href="#Progress-I-Made" class="headerlink" title="Progress I Made"></a>Progress I Made</h2><p>So far I’ve built a rudimentary framework of my digital home. I must say: It is the most productive project I have done this year. In addition, I think it is about accumulation: If it were not for my commencement of writing a blog, I would not end up creating a website! Despite the fact that the website is simply a static webpage serving as my blog, I am ecstatic and satisfied that I unlock my new potential.</p>
-<p>我取得的進展</p>
-<p>到目前為止，我已經建立了我的數字之家的一個基本框架。我必須說：這是我今年完成的最有成效的項目。此外，我認為這是積累的問題：如果不是因為我開始寫博客，我就不會最終創建一個網站！儘管該網站只是一個作為我的博客的靜態網頁，但我對解鎖新潛力感到欣喜滿足。</p>
-<h2 id="Future-Plan"><a href="#Future-Plan" class="headerlink" title="Future Plan"></a>Future Plan</h2><p>In the near future, I am planning to move my blog posts from Medium to my personal website. To obtain this goal, I need to be familiar with the current tools, <strong>hexo and markdown</strong>. In other words, I can not only play around with my website but also practise some new skills. Hopefully I can stay productive and motivated!</p>
-<p>未來計劃</p>
-<p>在不久的將來，我計劃將我的博客文章從Medium搬遷到我的個人網站。為了實現這個目標，我需要熟悉當前的工具，hexo和markdown。換句話說，我不僅可以在我的網站上嬉戲，還可以練習一些新技能。希望我能保持高效和積極！</p>
+    <title>習慣培養系列：從每天抽一張塔羅牌開始</title>
+    <url>/2023/03/10/habits01/</url>
+    <content><![CDATA[<p>談到自律，大家想到的不外乎早睡早起、堅持運動、每日閱讀、二十一天法則等等，網路上也有許多文章在宣傳養成自律習慣的好處，甚至不少學者專門從事相關的研究，也有厲害的作家撰文描繪養成自律習慣的優點。</p>
 <blockquote>
-<p>Editor’s Comment: <br>In the symphony of coding, our author has composed a digital opus, bravely venturing where syntax and pixels converge. With the perplexities of Git and the triumph over Medium posts, this odyssey is a testament to conquering the web! <br>編輯評論: 在編碼的交響樂中，我們的作者創作了一部數字史詩，勇敢地涉足語法和像素交匯的領域。通過Git的複雜性和對Medium文章的勝利，這是征服網絡的明證！</p>
+<p>你有多自律，就有多自由</p>
 </blockquote>
-<h2 id="Scoring"><a href="#Scoring" class="headerlink" title="Scoring"></a>Scoring</h2>
-  <div class="note-large blue">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>blue</p>
-
-    </div>
-    <div class="notel-content">
-      <p>Vocabulary use: 9&#x2F;10</p>
-<p>Grammar use: 8.5&#x2F;10</p>
-<p>Sentence structure and coherence: 8&#x2F;10</p>
-<p>Readability: 9&#x2F;10</p>
-<p>Overall scoring: 8.6&#x2F;10</p>
-<p>GPA standard: A-</p>
-<p>Pros:<br>The vocabulary use is rich and contributes to a detailed and informative narrative.<br>Clear introduction and well-structured sections make the content easy to follow.<br>The reference links add credibility and provide additional resources for readers.</p>
-<p>Cons:<br>Some sentences could benefit from minor adjustments for smoother flow and coherence.</p>
-<p>Advice:<br>Sentence structure: Continue refining sentence structures for enhanced coherence.<br>Grammar use: Maintain consistency in grammar application for even smoother readability.<br>Great job on incorporating reference links; keep utilizing external resources for added depth.</p>
-<p>GPA standard: The writing demonstrates a strong command of language with minor areas for improvement. The content effectively communicates the author’s journey of building a website, providing valuable insights and resources.</p>
-
-    </div>
-  </div>
-
-<h2 id="ChatGPT’s-Revision"><a href="#ChatGPT’s-Revision" class="headerlink" title="ChatGPT’s Revision"></a>ChatGPT’s Revision</h2>
-  <div class="note-large blue">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>On the Road to Building My Website: Embracing the Digital Frontier</p>
-
-    </div>
-    <div class="notel-content">
-      <p>Introduction:<br>Venturing into the realm of technology, I’ve embarked on creating my digital abode for the first time. Unlike previous attempts where I hopped between platforms, this time, armed with newfound determination, I delved into articles and sought guidance from my engineer friend. Even the archaic charm of cmd under the terminal, akin to the traditional Microsoft DOS interface, found its way into my exploration. Thanks to modern technology and the generous spirit of the internet, my website emerged victorious.</p>
-<p>References and Useful Tools:<br>Establishing a conducive environment for website construction is paramount. Although I regrettably failed to preserve all the links and articles I perused, I recognise the wisdom in creating a list for future reference. As a novice, fundamental guides will undoubtedly prove invaluable on my website-building odyssey. Two particularly reliable articles, both guiding me on converting Medium posts to markdown format, are written in Chinese, eliminating the language barrier for me.</p>
-<p>Issues I Encountered:<br>The initial challenge for a tech neophyte remains a perennial one: constructing the environment. While a software engineer seamlessly installs requisite suites, novices grapple with this vexing pitfall. Git and Github became a bewildering maze until my friend’s intervention clarified their distinctions. Another significant hurdle was retrieving my previous works, eventually overcome by discovering software that facilitated the download of Medium posts into markdown format.</p>
-<p>Progress I Made:<br>A skeletal framework for my digital home now stands, marking the most productive project of my year. The journey, catalysed by my foray into blogging, has unlocked new potential. Despite its simplicity as a static blog page, the satisfaction derived is immeasurable.</p>
-<p>Future Plan:<br>In the immediate future, I aspire to transplant my blog posts from Medium to my personal website. This entails mastering current tools like Hexo and Markdown, providing not only a playground for my website but also an arena to acquire new skills. May productivity and motivation continue to be my steadfast companions!</p>
-<p>走向建立我的網站之路：擁抱數字前沿</p>
-<p>簡介：<br>踏入科技的領域，我首次踏上了建立我的數字居所之旅。不同於以往在不同平台間遊走的嘗試，這一次，憑藉新發現的決心，我深入研讀文章並向工程師朋友尋求指導。甚至終端下的 cmd，類似於傳統的 Microsoft DOS 介面，也在我的探索中找到了位置。多虧現代技術和互聯網的慷慨精神，我的網站勝利地浮現。</p>
-<p>參考資料和有用的工具：<br>為建立網站的環境至關重要。儘管我遺憾地未能保存所有閱讀的鏈接和文章，但我意識到為將來創建一個列表是明智之舉。作為新手，基本指南無疑將在我建站的過程中證明其無價。其中兩篇特別可靠的文章都指導我將 Medium 的文章轉換為 markdown 格式，並以中文撰寫，消除了語言障礙。</p>
-<p>我遇到的問題：<br>對於技術新手來說，最初的挑戰始終是一個永恆的問題：構建環境。雖然軟體工程師可以輕鬆安裝所需的套件，但新手們卻在這個令人惱火的陷阱中掙扎。Git 和 Github 在我的朋友介入之前變得令人困惑。另一個重大障礙是檢索以前的作品，最終通過發現一款軟體，有助於將 Medium 文章下載為 markdown 格式。</p>
-<p>我取得的進展：<br>我的數字之家現在已經建立了一個基本的框架，標誌著我一年中最有成效的項目。這個由我進入博客領域開啟的旅程，解鎖了新的潛力。儘管它僅僅是一個靜態的博客頁面，但所獲得的滿足感是不可估量的。</p>
-<p>未來計劃：<br>在不久的將來，我希望將我的博客文章從 Medium 搬遷到我的個人網站。這需要掌握像 Hexo 和 Markdown 這樣的當前工具，為我的網站提供不僅是一個遊樂場，還是獲得新技能的場所。願生產力和動力繼續做我的忠實伴侶！</p>
-
-    </div>
-  </div>]]></content>
+<p>這樣子的名言警句比比皆是。</p>
+<p>但是，這樣子的習慣不是一夕之間就可養成的，更多時候我自己都在跟自己的惰性對抗，而且很遺憾，往往是根深蒂固的懶散行為取得衛冕者寶座，再度讓自己往頹唐耍廢的深淵墮落。</p>
+<p>每一年都有新希望，每一年都許願要做去年沒達成的事情，而且每一年都沒做到，這就是我的寫照。</p>
+<p>打個比方來說，今年元旦我希望能夠開始培養自律的習慣，從每天寫點文字開始。但是太多雜事了，工作太累了，電動好好玩，Youtube 好好看，<strong>種種藉口讓自己一拖再拖</strong>，於是等到農曆過年的時候我告訴自己，要好好培養自律的習慣……（以下略）</p>
+<blockquote>
+<p>沒想到這個無藥可救的拖延症，最後是依靠塔羅牌幫我一點一滴改善。</p>
+</blockquote>
+<p>目前雖然成效還沒有很好：過胖的體重沒有減下來，想做到的事情也都還沒有做到，早上還是爬不起來，但是這麼多年來我第一次破關了兩款 Steam 的遊戲，徹底打破_以前我都花錢買遊戲了為什麼還要花時間玩_的心態，也開始_極為緩慢地_培養所謂的好習慣：無心插柳柳成蔭不外如是。</p>
+<p>究竟塔羅牌是如何讓我開始慢慢培養自律的習慣呢？</p>
+<p>從塔羅牌的練習開始說起吧。</p>
+<p>網路上有不少文章，坊間也有一些書籍在講述初學者如何自學塔羅牌，其中一個很有幫助的概念就是<strong>每天抽一張牌練習</strong>。對著書查怎麼解牌也好，看網路文章的解析也好，<strong>總之無論如何就是要每天抽一張牌</strong>。</p>
+<p>發現了嗎？這可能是我看過最講求自律的一個習慣了，而且達成條件還真的有夠輕鬆，不就每天抽一張牌嗎？</p>
+<p>真的這麼簡單我就不會是個無可救藥的拖延症肥宅了。</p>
+<p>在做這件事情的過程中，<strong>我發現自己常常會忘記要做今天的每日一抽</strong>，畢竟每天有太多雜事了，工作太累了，電動好好玩，Youtube 好好看（這段我是複製貼上的），而且抽了牌也不知道幹嘛用的。當初買塔羅牌只是想送人，後來發現牌面設計的挺好看的，而且會算塔羅牌好像很酷，就自己加減玩玩看，書還是圖書館借的。</p>
+<p>後來我做了什麼來調整呢？</p>
+<p>把抽到的牌逼自己寫下來。</p>
+<p>就這麼簡單，我逛無印良品的時候買了一本小小的行事曆筆記本，本來是打算偶爾記點東西用的（新年新希望的一部份：希望自己能夠記手帳）；沒想到後來變成讓我督促自己記塔羅牌每日一抽的工具。</p>
+<p>過程中當然也會有沒寫到的，但是我稍微給自己一點寬限：如果今天沒抽牌，隔天早上一定要補上，隔天的牌就一樣晚上抽。</p>
+<blockquote>
+<p>想不到這個做法剛好避免自己陷入完美主義的窠臼。</p>
+</blockquote>
+<p>後來我在某本雜誌上讀到，<strong>拖延症某方面可以解釋成不切實際的完美主義</strong>：想想看自己有哪些年度計畫或月計畫是因為一點小小的瑕疵或中斷就全盤放棄的！</p>
+<p>我在開始玩塔羅牌每日一抽差不多一個月之後，發現自己不自覺地培養成了閱讀的習慣：每天去查那張牌的意思也是有讀書嘛（理直氣壯）！也不自覺地開始每天寫手帳了，這在以前根本是不可能的事情，畢竟每天有太多雜事了，工作太累了，電動好好玩，Youtube 好好看；哪來那麼多時間每天看個兩頁書，還寫手帳？</p>
+<blockquote>
+<p>到這裡，我才慢慢體會到，什麼叫做 <strong>Sustainable Efforts</strong>。</p>
+</blockquote>
+<p>想養成自律，不在於把目標設定得多偉大，也不在於自己訂下的每日任務有多難（這反而會造成反效果），而是一點一滴持續地培養，利用 Sustainable Efforts 幫助自己慢慢地往目標前進。</p>
+<p>從抽牌開始（2022 年 12 月16 日）到今天（2023 年 3 月 10 日）我已經記了三個多月的塔羅每日一抽了，我變成一個厲害的塔羅牌專家了嗎？並沒有，每次抽到重複的牌我照樣要翻書、查網頁、找資料。可以說在塔羅牌的學習方面，根本不用心，也沒什麼太多進步。</p>
+<blockquote>
+<p>但是我<strong>記了三個月的手帳</strong>，讓自己培養「原來我也可以建立自律習慣」的自信，還身體力行搞懂了何謂<strong>可持續的努力</strong>，我覺得這個收穫比單純的「學會怎麼算塔羅牌」大得多。</p>
+</blockquote>
+<p>希望自己能在「培養自律習慣」的路上走得更長久。</p>
+]]></content>
       <categories>
-        <category>Website</category>
+        <category>Reflection</category>
       </categories>
       <tags>
-        <tag>Challenge</tag>
-        <tag>Technology</tag>
+        <tag>Self-discipline</tag>
       </tags>
   </entry>
   <entry>
@@ -348,53 +403,6 @@
       </tags>
   </entry>
   <entry>
-    <title>習慣培養系列：從每天抽一張塔羅牌開始</title>
-    <url>/2023/03/10/habits01/</url>
-    <content><![CDATA[<p>談到自律，大家想到的不外乎早睡早起、堅持運動、每日閱讀、二十一天法則等等，網路上也有許多文章在宣傳養成自律習慣的好處，甚至不少學者專門從事相關的研究，也有厲害的作家撰文描繪養成自律習慣的優點。</p>
-<blockquote>
-<p>你有多自律，就有多自由</p>
-</blockquote>
-<p>這樣子的名言警句比比皆是。</p>
-<p>但是，這樣子的習慣不是一夕之間就可養成的，更多時候我自己都在跟自己的惰性對抗，而且很遺憾，往往是根深蒂固的懶散行為取得衛冕者寶座，再度讓自己往頹唐耍廢的深淵墮落。</p>
-<p>每一年都有新希望，每一年都許願要做去年沒達成的事情，而且每一年都沒做到，這就是我的寫照。</p>
-<p>打個比方來說，今年元旦我希望能夠開始培養自律的習慣，從每天寫點文字開始。但是太多雜事了，工作太累了，電動好好玩，Youtube 好好看，<strong>種種藉口讓自己一拖再拖</strong>，於是等到農曆過年的時候我告訴自己，要好好培養自律的習慣……（以下略）</p>
-<blockquote>
-<p>沒想到這個無藥可救的拖延症，最後是依靠塔羅牌幫我一點一滴改善。</p>
-</blockquote>
-<p>目前雖然成效還沒有很好：過胖的體重沒有減下來，想做到的事情也都還沒有做到，早上還是爬不起來，但是這麼多年來我第一次破關了兩款 Steam 的遊戲，徹底打破_以前我都花錢買遊戲了為什麼還要花時間玩_的心態，也開始_極為緩慢地_培養所謂的好習慣：無心插柳柳成蔭不外如是。</p>
-<p>究竟塔羅牌是如何讓我開始慢慢培養自律的習慣呢？</p>
-<p>從塔羅牌的練習開始說起吧。</p>
-<p>網路上有不少文章，坊間也有一些書籍在講述初學者如何自學塔羅牌，其中一個很有幫助的概念就是<strong>每天抽一張牌練習</strong>。對著書查怎麼解牌也好，看網路文章的解析也好，<strong>總之無論如何就是要每天抽一張牌</strong>。</p>
-<p>發現了嗎？這可能是我看過最講求自律的一個習慣了，而且達成條件還真的有夠輕鬆，不就每天抽一張牌嗎？</p>
-<p>真的這麼簡單我就不會是個無可救藥的拖延症肥宅了。</p>
-<p>在做這件事情的過程中，<strong>我發現自己常常會忘記要做今天的每日一抽</strong>，畢竟每天有太多雜事了，工作太累了，電動好好玩，Youtube 好好看（這段我是複製貼上的），而且抽了牌也不知道幹嘛用的。當初買塔羅牌只是想送人，後來發現牌面設計的挺好看的，而且會算塔羅牌好像很酷，就自己加減玩玩看，書還是圖書館借的。</p>
-<p>後來我做了什麼來調整呢？</p>
-<p>把抽到的牌逼自己寫下來。</p>
-<p>就這麼簡單，我逛無印良品的時候買了一本小小的行事曆筆記本，本來是打算偶爾記點東西用的（新年新希望的一部份：希望自己能夠記手帳）；沒想到後來變成讓我督促自己記塔羅牌每日一抽的工具。</p>
-<p>過程中當然也會有沒寫到的，但是我稍微給自己一點寬限：如果今天沒抽牌，隔天早上一定要補上，隔天的牌就一樣晚上抽。</p>
-<blockquote>
-<p>想不到這個做法剛好避免自己陷入完美主義的窠臼。</p>
-</blockquote>
-<p>後來我在某本雜誌上讀到，<strong>拖延症某方面可以解釋成不切實際的完美主義</strong>：想想看自己有哪些年度計畫或月計畫是因為一點小小的瑕疵或中斷就全盤放棄的！</p>
-<p>我在開始玩塔羅牌每日一抽差不多一個月之後，發現自己不自覺地培養成了閱讀的習慣：每天去查那張牌的意思也是有讀書嘛（理直氣壯）！也不自覺地開始每天寫手帳了，這在以前根本是不可能的事情，畢竟每天有太多雜事了，工作太累了，電動好好玩，Youtube 好好看；哪來那麼多時間每天看個兩頁書，還寫手帳？</p>
-<blockquote>
-<p>到這裡，我才慢慢體會到，什麼叫做 <strong>Sustainable Efforts</strong>。</p>
-</blockquote>
-<p>想養成自律，不在於把目標設定得多偉大，也不在於自己訂下的每日任務有多難（這反而會造成反效果），而是一點一滴持續地培養，利用 Sustainable Efforts 幫助自己慢慢地往目標前進。</p>
-<p>從抽牌開始（2022 年 12 月16 日）到今天（2023 年 3 月 10 日）我已經記了三個多月的塔羅每日一抽了，我變成一個厲害的塔羅牌專家了嗎？並沒有，每次抽到重複的牌我照樣要翻書、查網頁、找資料。可以說在塔羅牌的學習方面，根本不用心，也沒什麼太多進步。</p>
-<blockquote>
-<p>但是我<strong>記了三個月的手帳</strong>，讓自己培養「原來我也可以建立自律習慣」的自信，還身體力行搞懂了何謂<strong>可持續的努力</strong>，我覺得這個收穫比單純的「學會怎麼算塔羅牌」大得多。</p>
-</blockquote>
-<p>希望自己能在「培養自律習慣」的路上走得更長久。</p>
-]]></content>
-      <categories>
-        <category>Reflection</category>
-      </categories>
-      <tags>
-        <tag>Self-discipline</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>習慣培養系列：重新開始 Day 2</title>
     <url>/2023/08/25/habits04/</url>
     <content><![CDATA[<p>要培養自己的生產力，就先從之前就放棄過的英打練習開始。一開始就強度太高或是做太多事情的話我八成很快就又放棄了。今天的英打練習我是去 <a class="link"   href="https://monkeytype.com/" >https://monkeytype.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 這個網站做的，以前曾經用過一段時間，不過那時候我只用來作測驗，畢竟當初的構想是玩一個月的英打遊戲，然後比對前後看看有沒有進步。進步當然是有的，但是沒有量化進步了多少，果然做事情還是要留紀錄啊！</p>
@@ -437,36 +445,6 @@
       </categories>
       <tags>
         <tag>Touchtyping</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>習慣培養系列：重新開始 Day 4</title>
-    <url>/2023/08/27/habits06/</url>
-    <content><![CDATA[<p>用英打練習這個主題連續寫 30 天那就真的成為毫無意義的流水帳了，所以來聊點輕鬆的話題。</p>
-<blockquote>
-<p>習慣使用網路的世代大概有不少人受到遊戲直播的影響，甚至有人投入這項產業中成為其中的一份子（比方說英雄聯盟賽事主播長毛、眾多網路流行語的出處統神等等），我和我的朋友們也不例外，都曾經在 YouTube 平台用自己的帳號開過遊戲直播或是上傳過一些玩遊戲的影片。</p>
-</blockquote>
-<p>今天我一邊開著空白的 Medium 頁面想著要寫點什麼東西，然後在傳了一張打字練習的截圖之後就自然而然地開始放空，點開萬惡的分心之源 YouTube 跟 Twitch 網頁，像個拿著遙控器卻因為不知道看什麼節目而一直轉台的沙發馬鈴薯一樣不斷亂點，突然靈機一動，乾脆用這個點子來當作今天的寫作題目好了！於是拯救了我的習慣培養重新開始系列文章，不至於寫了三天就放棄。</p>
-<p>於是為了把這份靈機一動的短暫動機擴寫，我決定去翻看看我和朋友們的 YouTube 跟 Twitch 頻道，看看有什麼值得當作寫作素材的東西，但是其實沒什麼收穫，不過可以確定的是：</p>
-<ol>
-<li>大部分當時覺得很好玩的遊戲其實現在看起來蠻雷的</li>
-<li>可能有極少數現在看起來還覺得有趣的遊戲，那就是真的好作品，說不定拿來重新破關一次做個影片還會有人看</li>
-<li>單純串流直播遊戲流程根本不會有人想看</li>
-<li>影片只要做過最簡單的剪輯，甚至不用上特效跟字幕，只是單純加個配樂，觀看次數就會有相當大的落差</li>
-</ol>
-<p>真是有趣，回去翻好幾年前的遊戲直播紀錄還能自我檢討一下，而且這幾點並不是什麼很難想到或違反直覺的推論。一般我們自己看遊戲影片也會選擇精華剪輯、有跟觀眾互動、會做戲劇效果的（比如說看人玩恐怖遊戲被驚嚇的顏藝直播），那麼反推回去，自己想做遊戲影片的話就應該想辦法在後製下功夫，或是培養自己自言自語實時播報的能力。</p>
-<p>重拾習慣培養 Day 4</p>
-<ol>
-<li>寫作練習：Medium，試著想一些新的題材硬掰點字數出來</li>
-<li>雅思作文範文英打練習 1 篇</li>
-<li>雅思作文範文朗讀錄音練習（未檢討）</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Reflection</category>
-      </categories>
-      <tags>
-        <tag>Gaming</tag>
       </tags>
   </entry>
   <entry>
@@ -521,6 +499,36 @@
       </tags>
   </entry>
   <entry>
+    <title>習慣培養系列：重新開始 Day 4</title>
+    <url>/2023/08/27/habits06/</url>
+    <content><![CDATA[<p>用英打練習這個主題連續寫 30 天那就真的成為毫無意義的流水帳了，所以來聊點輕鬆的話題。</p>
+<blockquote>
+<p>習慣使用網路的世代大概有不少人受到遊戲直播的影響，甚至有人投入這項產業中成為其中的一份子（比方說英雄聯盟賽事主播長毛、眾多網路流行語的出處統神等等），我和我的朋友們也不例外，都曾經在 YouTube 平台用自己的帳號開過遊戲直播或是上傳過一些玩遊戲的影片。</p>
+</blockquote>
+<p>今天我一邊開著空白的 Medium 頁面想著要寫點什麼東西，然後在傳了一張打字練習的截圖之後就自然而然地開始放空，點開萬惡的分心之源 YouTube 跟 Twitch 網頁，像個拿著遙控器卻因為不知道看什麼節目而一直轉台的沙發馬鈴薯一樣不斷亂點，突然靈機一動，乾脆用這個點子來當作今天的寫作題目好了！於是拯救了我的習慣培養重新開始系列文章，不至於寫了三天就放棄。</p>
+<p>於是為了把這份靈機一動的短暫動機擴寫，我決定去翻看看我和朋友們的 YouTube 跟 Twitch 頻道，看看有什麼值得當作寫作素材的東西，但是其實沒什麼收穫，不過可以確定的是：</p>
+<ol>
+<li>大部分當時覺得很好玩的遊戲其實現在看起來蠻雷的</li>
+<li>可能有極少數現在看起來還覺得有趣的遊戲，那就是真的好作品，說不定拿來重新破關一次做個影片還會有人看</li>
+<li>單純串流直播遊戲流程根本不會有人想看</li>
+<li>影片只要做過最簡單的剪輯，甚至不用上特效跟字幕，只是單純加個配樂，觀看次數就會有相當大的落差</li>
+</ol>
+<p>真是有趣，回去翻好幾年前的遊戲直播紀錄還能自我檢討一下，而且這幾點並不是什麼很難想到或違反直覺的推論。一般我們自己看遊戲影片也會選擇精華剪輯、有跟觀眾互動、會做戲劇效果的（比如說看人玩恐怖遊戲被驚嚇的顏藝直播），那麼反推回去，自己想做遊戲影片的話就應該想辦法在後製下功夫，或是培養自己自言自語實時播報的能力。</p>
+<p>重拾習慣培養 Day 4</p>
+<ol>
+<li>寫作練習：Medium，試著想一些新的題材硬掰點字數出來</li>
+<li>雅思作文範文英打練習 1 篇</li>
+<li>雅思作文範文朗讀錄音練習（未檢討）</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Reflection</category>
+      </categories>
+      <tags>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>習慣培養系列：重新開始 Day 6</title>
     <url>/2023/08/29/habits08/</url>
     <content><![CDATA[<p>29th, August, 2023</p>
@@ -567,6 +575,72 @@
 ]]></content>
       <categories>
         <category>English-learning</category>
+      </categories>
+      <tags>
+        <tag>Pronunciation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>習慣培養系列：重新開始 Day 7</title>
+    <url>/2023/08/30/habits09/</url>
+    <content><![CDATA[<p>30th, August, 2023</p>
+<ul>
+<li><p>美國不同的地區會有不同的用字習慣。臺灣閩南語也有這樣的情形，比方說腳踏車的閩南語在中部可能會聽到人說「鐵馬」。</p>
+</li>
+<li><p>tonic stress 和 continuation rise 的觀念：句子的暫停處（逗號出現的前一個單字）會明顯語調上揚再下降，但是如果整個 thought group 尚未結束，句尾還是要將語調往上拉。</p>
+</li>
+<li><p>Consistency: <strong>先完整地學好一種口音</strong>（這門課的例子就是史嘉琳老師的 Standard American English），<strong>不要東學一塊西學一塊</strong>。</p>
+</li>
+<li><p>連續的文字，<strong>都是 content word 時，即使是單音節詞也不要快速念過，而是要稍微放慢速度</strong>。 …two small muscular folds… 這裡應該一個字一個字清晰地念好，因為這是有實質內容的字串，要確保聽者能聽清楚。</p>
+</li>
+<li><p>stress timing: in English, the stressed syllables are long, while unstressed syllables are short, 重音音節之間的非重音音節時間會被壓縮。如果都是重音音節，那麼其中應該要稍作暫停。<em>個人感想：英文的節奏感就是這樣子形成的。</em></p>
+</li>
+<li><p>syllable timing: 不同於英文用重音作為單位，有的語言是用音節作為單位計算。簡單的例子：中文普通話。</p>
+</li>
+</ul>
+<p>還有一些豆知識，例如<strong>不只大聲吼叫，講悄悄話也很傷聲帶。</strong></p>
+<p>常見錯誤發音整理：</p>
+<pre><code>1.  both
+2.  voice
+3.  in
+4.  each of these words （重音在哪裡？）
+5.  vibrate
+6.  them
+7.  also
+8.  figure（注意英式／美式）
+9.  suggest（注意英式／美式）
+</code></pre>
+<ol>
+<li>史嘉琳老師公開課第三課</li>
+<li>英打練習</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Reflection</category>
+      </categories>
+      <tags>
+        <tag>Pronunciation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>習慣培養系列：Day 9</title>
+    <url>/2023/09/01/habits11/</url>
+    <content><![CDATA[<p>1st, September, 2023</p>
+<p>才第 9 天就已經要想不到怎麼寫了，一方面是因為沒有照著別人的 30 天挑戰格式做（好像每天都要寫不同主題？我看了一下覺得不太適合我就不管了），一方面是這兩天缺乏學習和自我成長的動力。</p>
+<p>但是昨天滑 YouTube 影片耍廢的時候看到了一個叫做 <strong><em>No Zero Day</em></strong> 的說法，很符合之前聽過的 sustainable efforts 的概念，就順便再逼自己複習一下，並且用這個當主題再寫一次。</p>
+<p>人都是有惰性的，之前每次都是只要休息 1 次就會休息無數次，我在某本雜誌（不知道是經理人還是哪一本，總之就是便利超商買得到的那種輕閱讀雜誌，偶爾會做一些特定主題的特刊）讀到過，<strong>這種心態不是所謂的自暴自棄，而是一種有缺陷的完美主義心態</strong>。</p>
+<p>寫到這邊突然覺得很眼熟，點了自己的文章列表，想不到早在去年底我就用<strong>每日一抽塔羅牌</strong>當作練習做過了，歷史果然就是不斷重演啊哈哈哈。</p>
+<p>這次的差別大概就在於自己記手帳記到最後扔一旁跟上網發文吧。下次要求學生寫<strong>數位筆記</strong>（講得好像很厲害似的）的時候就把這段時間的文章列表給他看。當然真的不能傳出去……迅速給人瞄一眼就好。<em>網上發文被認識的人看到簡直是尷尬到極點啊！</em></p>
+<p>最後再來閒聊點語言學習相關的（話題轉得很硬）。今天看到有人分享目前的國語課本，發現現在小學國語課本都有 QR Code 可以掃描讓小朋友聽 &amp; 跟著讀了。小朋友在學習讀課文的時候就會變成<strong>字正腔圓</strong>但是平常大人講話不會這樣說的腔調。</p>
+<p>有一說法是：為了體貼新住民族群的家長，讓這些族群可以用這樣的工具幫助小朋友學習，畢竟家長不一定都很會念中文，或是說至少不是母語人士<strong>認為合乎標準</strong>的中文。</p>
+<p>對於這麼容易起爭議的話題我也不好評斷，但是有一點我相當肯定：這樣下來編教科書成本肯定越來越高。畢竟要圖文並茂，又要有搭配的多媒體學習素材，還要因應時不時的課綱修正，對出版商肯定是一項負擔。但是因為少子化的關係，真正需要用到教科書的學生人數其實是一年比一年少，到時候因應環境變動，會不會連出版商都放棄這塊市場呢？</p>
+<ol>
+<li>雅思範文英打練習</li>
+<li>雜談</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Reflection</category>
       </categories>
       <tags>
         <tag>Pronunciation</tag>
@@ -634,30 +708,6 @@
       </tags>
   </entry>
   <entry>
-    <title>習慣培養系列：Day 9</title>
-    <url>/2023/09/01/habits11/</url>
-    <content><![CDATA[<p>1st, September, 2023</p>
-<p>才第 9 天就已經要想不到怎麼寫了，一方面是因為沒有照著別人的 30 天挑戰格式做（好像每天都要寫不同主題？我看了一下覺得不太適合我就不管了），一方面是這兩天缺乏學習和自我成長的動力。</p>
-<p>但是昨天滑 YouTube 影片耍廢的時候看到了一個叫做 <strong><em>No Zero Day</em></strong> 的說法，很符合之前聽過的 sustainable efforts 的概念，就順便再逼自己複習一下，並且用這個當主題再寫一次。</p>
-<p>人都是有惰性的，之前每次都是只要休息 1 次就會休息無數次，我在某本雜誌（不知道是經理人還是哪一本，總之就是便利超商買得到的那種輕閱讀雜誌，偶爾會做一些特定主題的特刊）讀到過，<strong>這種心態不是所謂的自暴自棄，而是一種有缺陷的完美主義心態</strong>。</p>
-<p>寫到這邊突然覺得很眼熟，點了自己的文章列表，想不到早在去年底我就用<strong>每日一抽塔羅牌</strong>當作練習做過了，歷史果然就是不斷重演啊哈哈哈。</p>
-<p>這次的差別大概就在於自己記手帳記到最後扔一旁跟上網發文吧。下次要求學生寫<strong>數位筆記</strong>（講得好像很厲害似的）的時候就把這段時間的文章列表給他看。當然真的不能傳出去……迅速給人瞄一眼就好。<em>網上發文被認識的人看到簡直是尷尬到極點啊！</em></p>
-<p>最後再來閒聊點語言學習相關的（話題轉得很硬）。今天看到有人分享目前的國語課本，發現現在小學國語課本都有 QR Code 可以掃描讓小朋友聽 &amp; 跟著讀了。小朋友在學習讀課文的時候就會變成<strong>字正腔圓</strong>但是平常大人講話不會這樣說的腔調。</p>
-<p>有一說法是：為了體貼新住民族群的家長，讓這些族群可以用這樣的工具幫助小朋友學習，畢竟家長不一定都很會念中文，或是說至少不是母語人士<strong>認為合乎標準</strong>的中文。</p>
-<p>對於這麼容易起爭議的話題我也不好評斷，但是有一點我相當肯定：這樣下來編教科書成本肯定越來越高。畢竟要圖文並茂，又要有搭配的多媒體學習素材，還要因應時不時的課綱修正，對出版商肯定是一項負擔。但是因為少子化的關係，真正需要用到教科書的學生人數其實是一年比一年少，到時候因應環境變動，會不會連出版商都放棄這塊市場呢？</p>
-<ol>
-<li>雅思範文英打練習</li>
-<li>雜談</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Reflection</category>
-      </categories>
-      <tags>
-        <tag>Pronunciation</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to Start My Writing with a Joke</title>
     <url>/2023/09/03/habits13/</url>
     <content><![CDATA[<p>3rd, September, 2023, Daily English Writing #2</p>
@@ -692,91 +742,6 @@
       <tags>
         <tag>Meme</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>習慣培養系列：重新開始 Day 7</title>
-    <url>/2023/08/30/habits09/</url>
-    <content><![CDATA[<p>30th, August, 2023</p>
-<ul>
-<li><p>美國不同的地區會有不同的用字習慣。臺灣閩南語也有這樣的情形，比方說腳踏車的閩南語在中部可能會聽到人說「鐵馬」。</p>
-</li>
-<li><p>tonic stress 和 continuation rise 的觀念：句子的暫停處（逗號出現的前一個單字）會明顯語調上揚再下降，但是如果整個 thought group 尚未結束，句尾還是要將語調往上拉。</p>
-</li>
-<li><p>Consistency: <strong>先完整地學好一種口音</strong>（這門課的例子就是史嘉琳老師的 Standard American English），<strong>不要東學一塊西學一塊</strong>。</p>
-</li>
-<li><p>連續的文字，<strong>都是 content word 時，即使是單音節詞也不要快速念過，而是要稍微放慢速度</strong>。 …two small muscular folds… 這裡應該一個字一個字清晰地念好，因為這是有實質內容的字串，要確保聽者能聽清楚。</p>
-</li>
-<li><p>stress timing: in English, the stressed syllables are long, while unstressed syllables are short, 重音音節之間的非重音音節時間會被壓縮。如果都是重音音節，那麼其中應該要稍作暫停。<em>個人感想：英文的節奏感就是這樣子形成的。</em></p>
-</li>
-<li><p>syllable timing: 不同於英文用重音作為單位，有的語言是用音節作為單位計算。簡單的例子：中文普通話。</p>
-</li>
-</ul>
-<p>還有一些豆知識，例如<strong>不只大聲吼叫，講悄悄話也很傷聲帶。</strong></p>
-<p>常見錯誤發音整理：</p>
-<pre><code>1.  both
-2.  voice
-3.  in
-4.  each of these words （重音在哪裡？）
-5.  vibrate
-6.  them
-7.  also
-8.  figure（注意英式／美式）
-9.  suggest（注意英式／美式）
-</code></pre>
-<ol>
-<li>史嘉琳老師公開課第三課</li>
-<li>英打練習</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Reflection</category>
-      </categories>
-      <tags>
-        <tag>Pronunciation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Typhoons, Blackouts and Travel in Taiwan</title>
-    <url>/2023/09/04/habits15/</url>
-    <content><![CDATA[<p>4th, September, 2023, Daily English Writing #3</p>
-<p>The whether today is quite unstable. Due to the typhoon ‘HaiKui,’ we have two days off. It’s somewhat rare for a typhoon to strike Taiwan and lead to a day-off. In fact, in almost a decade, residents here may have experienced water shortages or restrictions, extremely high temperatures in the summer and occasional power failures, but not typhoons. I would kindly suggest that those who want to travel to Taiwan avoid visiting during the summer. The hot temperature can be torturous, especially when there is an unpredictable blackout.</p>
-<p>今天天氣相當不穩定。因為海葵颱風的影響，我們放了兩天颱風假。這在臺灣有點稀奇。接近十年來，居民可能經歷過缺水限水、夏季高溫、停電，但是颱風挺少的。我會誠摯地建議想到臺灣旅遊的人避開夏天。高溫簡直就是酷刑，無預警停電的時候更是如此。</p>
-<p>Spring and Fall in Taiwan are more enjoyable. The whether is mild, the temperature is moderate and the spirit is bright. Spring Festival (aka Lunar New Year) and Mid-Autumn Festival (aka Moon Festival) are two of the most important holidays in Chinese communities. The decorations on the streets demonstrate how much Chinese people value these special events. Although people criticize how commercial those holidays have become recently, it is still joyful to relax and spend some quality time with family and friends on these days.</p>
-<p>在臺灣，春天和秋天兩個季節是比較怡人的。氣候溫和，溫度適中，人們的精神也比較好。春節和中秋節對華人群體是最重要的兩個節日。街景上的裝飾也可以展現出華人對這些節慶多麼重視。雖然大家會批評最近這些節日變得很商業化，能夠在這樣的節日中放鬆以及與家人朋友享受美好時光還是非常令人開心。</p>
-<p>Once again, I turned to ChatGPT for assistance. This time I asked ChatGPT to score my writing, which might frustrate me. Well, it turned out to be okay. As a non-native user, I need to practice more. After all, practice makes perfect.</p>
-<p>再一次用 ChatGPT 協助。這次我要求 ChatGPT 幫我的寫作評分，雖然我知道分數可能會讓我很挫折……不過結果其實還 OK。對我這樣的非母語使用者，還是需要多練習才能進步，畢竟就像英語俗話講的：Practice makes perfect。</p>
-<p>Today’s progress</p>
-<ol>
-<li>Daily writing: 5 out of 10 (scored by ChatGPT)</li>
-<li>Touch-typing practice</li>
-</ol>
-]]></content>
-      <categories>
-        <category>English writing</category>
-      </categories>
-      <tags>
-        <tag>Typhoon</tag>
-        <tag>Taiwan</tag>
-        <tag>Travelling</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/12/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
   </entry>
   <entry>
     <title>How to Use ChatGPT</title>
@@ -858,5 +823,48 @@
       <tags>
         <tag>ChatGPT</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Typhoons, Blackouts and Travel in Taiwan</title>
+    <url>/2023/09/04/habits15/</url>
+    <content><![CDATA[<p>4th, September, 2023, Daily English Writing #3</p>
+<p>The whether today is quite unstable. Due to the typhoon ‘HaiKui,’ we have two days off. It’s somewhat rare for a typhoon to strike Taiwan and lead to a day-off. In fact, in almost a decade, residents here may have experienced water shortages or restrictions, extremely high temperatures in the summer and occasional power failures, but not typhoons. I would kindly suggest that those who want to travel to Taiwan avoid visiting during the summer. The hot temperature can be torturous, especially when there is an unpredictable blackout.</p>
+<p>今天天氣相當不穩定。因為海葵颱風的影響，我們放了兩天颱風假。這在臺灣有點稀奇。接近十年來，居民可能經歷過缺水限水、夏季高溫、停電，但是颱風挺少的。我會誠摯地建議想到臺灣旅遊的人避開夏天。高溫簡直就是酷刑，無預警停電的時候更是如此。</p>
+<p>Spring and Fall in Taiwan are more enjoyable. The whether is mild, the temperature is moderate and the spirit is bright. Spring Festival (aka Lunar New Year) and Mid-Autumn Festival (aka Moon Festival) are two of the most important holidays in Chinese communities. The decorations on the streets demonstrate how much Chinese people value these special events. Although people criticize how commercial those holidays have become recently, it is still joyful to relax and spend some quality time with family and friends on these days.</p>
+<p>在臺灣，春天和秋天兩個季節是比較怡人的。氣候溫和，溫度適中，人們的精神也比較好。春節和中秋節對華人群體是最重要的兩個節日。街景上的裝飾也可以展現出華人對這些節慶多麼重視。雖然大家會批評最近這些節日變得很商業化，能夠在這樣的節日中放鬆以及與家人朋友享受美好時光還是非常令人開心。</p>
+<p>Once again, I turned to ChatGPT for assistance. This time I asked ChatGPT to score my writing, which might frustrate me. Well, it turned out to be okay. As a non-native user, I need to practice more. After all, practice makes perfect.</p>
+<p>再一次用 ChatGPT 協助。這次我要求 ChatGPT 幫我的寫作評分，雖然我知道分數可能會讓我很挫折……不過結果其實還 OK。對我這樣的非母語使用者，還是需要多練習才能進步，畢竟就像英語俗話講的：Practice makes perfect。</p>
+<p>Today’s progress</p>
+<ol>
+<li>Daily writing: 5 out of 10 (scored by ChatGPT)</li>
+<li>Touch-typing practice</li>
+</ol>
+]]></content>
+      <categories>
+        <category>English writing</category>
+      </categories>
+      <tags>
+        <tag>Typhoon</tag>
+        <tag>Taiwan</tag>
+        <tag>Travelling</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/12/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
   </entry>
 </search>
